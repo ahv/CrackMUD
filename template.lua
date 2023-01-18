@@ -1,5 +1,4 @@
-id = "X-Y" -- must be unique
-desc = "Describe the solution"
+desc = "Describe the solution (only show to admin)"
 
 function solve(hex1, hex2)
 -- Implement the solution code here

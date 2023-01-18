@@ -2,7 +2,7 @@ package fi.kivikasvo.crackmud.puzzle;
 
 import fi.kivikasvo.crackmud.Main;
 import fi.kivikasvo.crackmud.db.Task;
-import fi.kivikasvo.crackmud.puzzle.exception.puzzleNotInLibraryException;
+import fi.kivikasvo.crackmud.exception.puzzleNotInLibraryException;
 import fi.kivikasvo.crackmud.db.UserAccount;
 import java.io.File;
 import java.util.HashMap;

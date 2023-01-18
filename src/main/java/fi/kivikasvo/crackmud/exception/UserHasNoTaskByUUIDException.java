@@ -1,5 +1,5 @@
 
-package fi.kivikasvo.crackmud.db.exception;
+package fi.kivikasvo.crackmud.exception;
 
 public class UserHasNoTaskByUUIDException extends Exception {
 

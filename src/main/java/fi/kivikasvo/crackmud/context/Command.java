@@ -1,4 +1,4 @@
-package fi.kivikasvo.crackmud;
+package fi.kivikasvo.crackmud.context;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

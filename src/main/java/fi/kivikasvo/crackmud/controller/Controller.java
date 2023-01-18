@@ -1,15 +1,14 @@
 package fi.kivikasvo.crackmud.controller;
 
-import fi.kivikasvo.crackmud.HibernateUtil;
 import fi.kivikasvo.crackmud.context.GameContext;
-import fi.kivikasvo.crackmud.core.NoAnswerSubmittedForCheckException;
+import fi.kivikasvo.crackmud.exception.NoAnswerSubmittedForCheckException;
 import fi.kivikasvo.crackmud.db.UserAccount;
 import fi.kivikasvo.crackmud.db.Model;
 import fi.kivikasvo.crackmud.db.Task;
-import fi.kivikasvo.crackmud.db.exception.UserHasNoTaskByUUIDException;
+import fi.kivikasvo.crackmud.exception.UserHasNoTaskByUUIDException;
 import fi.kivikasvo.crackmud.puzzle.PuzzleResource;
-import fi.kivikasvo.crackmud.puzzle.exception.InvalidAnswerFormattingException;
-import fi.kivikasvo.crackmud.puzzle.exception.puzzleNotInLibraryException;
+import fi.kivikasvo.crackmud.exception.InvalidAnswerFormattingException;
+import fi.kivikasvo.crackmud.exception.puzzleNotInLibraryException;
 import fi.kivikasvo.crackmud.view.GameView;
 import java.util.ArrayList;
 import java.util.List;

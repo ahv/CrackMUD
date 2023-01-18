@@ -2,8 +2,8 @@ package fi.kivikasvo.crackmud.db;
 
 import fi.kivikasvo.crackmud.core.AnsiColor;
 import fi.kivikasvo.crackmud.core.Hex;
-import fi.kivikasvo.crackmud.core.NoAnswerSubmittedForCheckException;
-import fi.kivikasvo.crackmud.puzzle.exception.InvalidAnswerFormattingException;
+import fi.kivikasvo.crackmud.exception.NoAnswerSubmittedForCheckException;
+import fi.kivikasvo.crackmud.exception.InvalidAnswerFormattingException;
 import fi.kivikasvo.crackmud.puzzle.PuzzleScript;
 import java.io.Serializable;
 import java.time.Duration;

@@ -1,8 +1,8 @@
 
 package fi.kivikasvo.crackmud.db;
 
-import fi.kivikasvo.crackmud.HibernateUtil;
-import fi.kivikasvo.crackmud.db.exception.UserHasNoTaskByUUIDException;
+import fi.kivikasvo.crackmud.core.HibernateUtil;
+import fi.kivikasvo.crackmud.exception.UserHasNoTaskByUUIDException;
 import java.util.List;
 
 public class Model {

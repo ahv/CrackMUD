@@ -1,6 +1,5 @@
 package fi.kivikasvo.crackmud.context;
 
-import fi.kivikasvo.crackmud.Command;
 import fi.kivikasvo.crackmud.core.PlaySession;
 import fi.kivikasvo.crackmud.controller.Controller;
 import fi.kivikasvo.crackmud.view.GameView;

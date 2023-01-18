@@ -1,5 +1,5 @@
 
-package fi.kivikasvo.crackmud.core;
+package fi.kivikasvo.crackmud.exception;
 
 public class NoAnswerSubmittedForCheckException extends Exception {
 

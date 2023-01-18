@@ -1,5 +1,5 @@
 
-package fi.kivikasvo.crackmud.puzzle.exception;
+package fi.kivikasvo.crackmud.exception;
 
 public class InvalidAnswerFormattingException extends Exception {
 

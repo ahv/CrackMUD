@@ -1,4 +1,4 @@
-package fi.kivikasvo.crackmud;
+package fi.kivikasvo.crackmud.core;
 
 import fi.kivikasvo.crackmud.db.UserAccount;
 import org.hibernate.Session;

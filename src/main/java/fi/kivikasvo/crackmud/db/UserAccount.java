@@ -1,6 +1,6 @@
 package fi.kivikasvo.crackmud.db;
 
-import fi.kivikasvo.crackmud.HibernateUtil;
+import fi.kivikasvo.crackmud.core.HibernateUtil;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;

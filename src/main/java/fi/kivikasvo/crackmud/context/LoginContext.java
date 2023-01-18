@@ -1,7 +1,6 @@
 package fi.kivikasvo.crackmud.context;
 
-import fi.kivikasvo.crackmud.Command;
-import fi.kivikasvo.crackmud.HibernateUtil;
+import fi.kivikasvo.crackmud.core.HibernateUtil;
 import fi.kivikasvo.crackmud.view.LoginView;
 import fi.kivikasvo.crackmud.core.PlaySession;
 import fi.kivikasvo.crackmud.core.TextBlock;
